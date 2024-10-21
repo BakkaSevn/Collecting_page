@@ -1,0 +1,19 @@
+.navbar{
+    height: 5rem;
+}
+
+.carousel-body{
+    height: 20rem;
+}
+
+.carousel{
+    height: 20rem;
+}
+
+.carousel-inner{
+    height: 20rem;
+}
+
+section{
+    margin-bottom: 10rem;
+}
